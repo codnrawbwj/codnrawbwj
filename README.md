@@ -1,6 +1,6 @@
 ## Hello There! 👋
 
-> Web Front-end Developer
+>Front-end Developer
 
 ### Tech Stacks
 
