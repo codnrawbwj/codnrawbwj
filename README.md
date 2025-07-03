@@ -1,6 +1,6 @@
 ## Hello There! 👋
 
->Front-end Developer
+>Full Stack Developer at WorkOnward 
 
 ### Tech Stacks
 
